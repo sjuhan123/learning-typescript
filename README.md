@@ -2,8 +2,8 @@
 
 ## 🥚 스터디원
 | ![Jayden](https://avatars.githubusercontent.com/u/86241737?v=4) | ![Lily](https://avatars.githubusercontent.com/u/88878874?v=4) | ![Den](https://avatars.githubusercontent.com/u/81420856?v=4) | ![bakha](https://avatars.githubusercontent.com/u/114852081?v=4) | ![조이Zoey](https://avatars.githubusercontent.com/u/111998760?v=4) |
-| :-------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | ------------------------------------------------------------- |
-|             [**Jayden**](https://github.com/JaydenLee1116)              |             [**Lily**](https://github.com/ahnlook)             |           [**Den**](https://github.com/sjuhan123)            |            [**bakha**](https://github.com/bakhacode)            |            [**조이Zoey**](https://github.com/youzysu)            | 
+| :-------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+|             [**Jayden**](https://github.com/JaydenLee1116)              |             [**Lily**](https://github.com/ahnlook)             |           [**Den**](https://github.com/sjuhan123)            |            [**bakha**](https://github.com/bakhacode)            |            [**조이Zoey**](https://github.com/youzysu)            |
 
 ## 📝 운영방식
 - 시간: 매주 토요일 오전 10시 (1시간 반 예정)
